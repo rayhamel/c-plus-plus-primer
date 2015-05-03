@@ -4,12 +4,12 @@
 */
 
 /*
-* When given all equal values:
+* When the program is given all equal values:
 *
 * 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 * 1 occurs 14 times
 *
-* When given no repeats:
+* When the program is given no repeats:
 *
 * 1 2 3 4
 * 1 occurs 1 times
